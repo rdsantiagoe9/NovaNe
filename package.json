@@ -1,0 +1,26 @@
+{
+"name": "nline-pp3oi",
+"version": "1.0.0",
+"description": "The system provides online appointment services for users, including hospital appointments, beauty salon appointments, restaurant reservations, etc., improving appointment efficiency and user experience.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rdsantiagoe9/NovaNe.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rdsantiagoe9",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
